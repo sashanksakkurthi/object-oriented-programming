@@ -30,7 +30,7 @@ public:
 };
 
 // deceleration of class(Blue print)
-// inheritance of class engine
+// inheritance of class engine,showroom
 class car: public engine,public showroom{
 
 /*
